@@ -1,0 +1,40 @@
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.exe
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.deps.json
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.runtimeconfig.json
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.dll
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.pdb
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.csproj.AssemblyReference.cache
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication_MarkupCompile.cache
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.g.resources
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.AssemblyInfoInputs.cache
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.AssemblyInfo.cs
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.csproj.CoreCompileInputs.cache
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.dll
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\refint\HotelReservationApplication.dll
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.pdb
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.genruntimeconfig.cache
+C:\Users\NTziouros.cognyte\Desktop\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\ref\HotelReservationApplication.dll
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.csproj.AssemblyReference.cache
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication_MarkupCompile.cache
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.g.resources
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.AssemblyInfoInputs.cache
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.AssemblyInfo.cs
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.csproj.CoreCompileInputs.cache
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.dll
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\refint\HotelReservationApplication.dll
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.pdb
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.exe
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.deps.json
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.runtimeconfig.json
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.dll
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\bin\Debug\net6.0-windows\HotelReservationApplication.pdb
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\HotelReservationApplication.genruntimeconfig.cache
+C:\Users\igugalov\Downloads\Hotel Reservation Application\Hotel Reservation Application\HotelReservationApplication\obj\Debug\net6.0-windows\ref\HotelReservationApplication.dll
