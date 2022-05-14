@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\igugalov\\.nuget\\packages\\": {}
+    "C:\\Users\\Ivaylo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igugalov\\Downloads\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\HotelReservationApplication.csproj",
+      "projectUniqueName": "D:\\Visual Studio Apps\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\HotelReservationApplication.csproj",
       "projectName": "HotelReservationApplication",
-      "projectPath": "C:\\Users\\igugalov\\Downloads\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\HotelReservationApplication.csproj",
-      "packagesPath": "C:\\Users\\igugalov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igugalov\\Downloads\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\obj\\",
+      "projectPath": "D:\\Visual Studio Apps\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\HotelReservationApplication.csproj",
+      "packagesPath": "C:\\Users\\Ivaylo\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Apps\\Hotel Reservation Application\\Hotel Reservation Application\\HotelReservationApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\igugalov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ivaylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\igugalov\\source\\repos\\local nugets": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/OWNER/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

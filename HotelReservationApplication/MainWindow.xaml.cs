@@ -25,23 +25,11 @@ namespace HotelReservation
             if (selectedDate != null)
             {
                 this.CheckOutDate?.BlackoutDates.Clear();
-                if (selectedDate.Value.Ticks > this.CheckOutDate?.SelectedDate?.Ticks)
+                if (selectedDate.Value.Ticks >= this.CheckOutDate?.SelectedDate?.Ticks)
                 {
-                    //this.CheckInDate.SelectedDate = DateTime.Today;
                     return;
                 }
                 this.CheckOutDate?.BlackoutDates.Add(new CalendarDateRange(DateTime.MinValue, selectedDate.Value));
-            }
-        }
-
-        private void CheckOutDate_OnSelectedDateChanged(object? sender, SelectionChangedEventArgs e)
-        {
-            var selectedDate = this.CheckOutDate.SelectedDate;
-            if (selectedDate == null) return;
-
-            if (selectedDate.Value.Ticks <= this.CheckInDate?.SelectedDate?.Ticks)
-            {
-                this.CheckOutDate.SelectedDate = this.CheckInDate.SelectedDate.Value.AddDays(1);
             }
         }
     }

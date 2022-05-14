@@ -7,7 +7,8 @@ namespace HotelReservationApplication.Services
 {
     public interface IReservationService
     {
-        Task<IEnumerable<Reservation>> GetReservationsForDate(DateTime checkIn, DateTime checkOut);
+        Task<IEnumerable<Room>> GetUnbookedRooms(int beds, DateTime checkIn, DateTime checkOut);
+        Task<IEnumerable<Reservation>> GetReservationsForRoom(int roomId);
         Task<Reservation> MakeReservation(int roomId, DateTime checkIn, DateTime checkOut);
         Task<IEnumerable<Room>> GetRooms();
     }
